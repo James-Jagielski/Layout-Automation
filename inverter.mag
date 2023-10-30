@@ -1,0 +1,44 @@
+magic
+tech sky130A
+timestamp 1698680050
+<< nmos >>
+rect 105 0 120 100
+<< ndiff >>
+rect 55 85 105 100
+rect 55 15 70 85
+rect 90 15 105 85
+rect 55 0 105 15
+rect 120 85 170 100
+rect 120 15 135 85
+rect 155 15 170 85
+rect 120 0 170 15
+<< ndiffc >>
+rect 70 15 90 85
+rect 135 15 155 85
+<< psubdiff >>
+rect 0 0 55 100
+<< psubdiffcont >>
+rect 20 15 40 85
+<< poly >>
+rect 105 100 120 115
+rect 105 -15 120 0
+<< locali >>
+rect 5 85 100 95
+rect 5 15 20 85
+rect 40 15 70 85
+rect 90 15 100 85
+rect 5 5 100 15
+rect 125 85 165 95
+rect 125 15 135 85
+rect 155 15 165 85
+rect 125 5 165 15
+<< viali >>
+rect 20 15 40 85
+rect 70 15 90 85
+<< metal1 >>
+rect -15 85 185 95
+rect -15 15 20 85
+rect 40 15 70 85
+rect 90 15 185 85
+rect -15 5 185 15
+<< end >>

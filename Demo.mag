@@ -8,7 +8,7 @@ rect 105 -15 120 115
 << psubdiff >>
 rect 0 0 55 100
 << locali >>
-rect 5 5 95 90
+rect 5 5 100 90
 rect 125 5 165 95
 << ndiffc >>
 rect 135 15 155 85

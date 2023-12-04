@@ -54,4 +54,8 @@ nrd="'0.29 / W'" nrs="'0.29 / W'"
 sa=0 sb=0 sd=0
 model=nfet_01v8
 spiceprefix=X
-}
+}C {devices/lab_pin.sym} 190 -80 0 0 {name=p1 sig_type=std_logic lab=Y}
+C {devices/lab_pin.sym} 140 0 0 0 {name=p1 sig_type=std_logic lab=VN}
+C {devices/lab_pin.sym} 0 30 0 0 {name=p1 sig_type=std_logic lab=Y}
+C {devices/lab_pin.sym} 0 -30 0 0 {name=p1 sig_type=std_logic lab=VN}
+C {madvlsi/capacitor.sym} 0 0 0 0 {name=C1 value=10p m=1}
